@@ -1,16 +1,16 @@
 ### Hi there 👋
+#### I'm a Front-end Developer
 
-<!--
-**tarcillabarbosa/tarcillabarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔜 I'm in the process of career transition
+- 👩‍💻 I'm a beginner in front-end development
+- 🗓 I use it on a daily basis: HTML, CSS, JavaScript (Angular)
+- ⚡ Fun fact: I'm a Potterhead
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##   Olá 👋
+### Sou desenvolvedora Front-End
+
+- 🔜 Estou no processo de transição de carreira.
+- 👩‍💻 Sou iniciante em desenvolvimento front-end.
+- 🗓 Eu uso diariamente: HTML, CSS e JavaScript (Angular).
+- ⚡ Fato divertido: Sou fã de Harry Potter.
