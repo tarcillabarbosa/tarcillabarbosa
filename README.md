@@ -16,4 +16,4 @@
 - ⚡ Fato divertido: Sou fã de Harry Potter.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarcillabarbosa&layout=donut)](https://github.com/tarcillabarbosa/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarcillabarbosa&layout=compact)
