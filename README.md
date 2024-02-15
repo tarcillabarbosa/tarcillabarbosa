@@ -14,5 +14,3 @@
 - 👩‍💻 Sou iniciante em desenvolvimento front-end.
 - 🗓 Eu uso diariamente: HTML, CSS e JavaScript (Angular).
 - ⚡ Fato divertido: Sou fã de Harry Potter.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
