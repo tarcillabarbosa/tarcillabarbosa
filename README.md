@@ -3,7 +3,7 @@
 
 - 🔜 I'm in the process of career transition
 - 👩‍💻 I'm a beginner in front-end development
-- 🗓 I use it on a daily basis: HTML, CSS, JavaScript (Angular)
+- 🗓 Technologies I use the most: JavaScript, TypeScript, Angular, React, HTML e CSS. 
 - ⚡ Fun fact: I'm a Potterhead
 
 
@@ -12,7 +12,7 @@
 
 - 🔜 Estou no processo de transição de carreira.
 - 👩‍💻 Sou iniciante em desenvolvimento front-end.
-- 🗓 Eu uso diariamente: HTML, CSS e JavaScript (Angular).
+- 🗓 Tecnologias que mais uso: JavaScript, TypeScript, Angular, React, HTML e CSS.
 - ⚡ Fato divertido: Sou fã de Harry Potter.
 
 
